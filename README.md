@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thanhkthai9
+- 👋 Hi, I’m Thanh Khai Thai
 - 👀 I’m interested in everything about the Engineering Hardware and Software categories.
 - 🌱 I’m currently learning various categories including 3D designing, Chipset, computer hardware mod, Linux operating system, and Cyber Security.
 - 💞️ I’m looking to collaborate with anyone who knows more about Hardware and Software.
